@@ -1,0 +1,18 @@
+.introabout {
+  margin: 8px;
+  padding: 2px;
+  padding-left: 17px;
+  background-color: #404040;
+  color: white;
+  font-size: 20px;
+}
+
+.information {
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 14px;
+}
+
+.links {
+  color: #0000ff00
+}

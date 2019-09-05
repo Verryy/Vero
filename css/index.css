@@ -1,0 +1,31 @@
+.gallery {
+  width: 161px;
+  height: 200px;
+  margin: 3px;
+  background-color: #404040;
+  padding: 3%;
+  display: inline-grid;
+}
+
+.desc {
+  color: white;
+  text-align: center;
+}
+
+.photo {
+  width: 161px;
+  height: 149px;
+  margin: 1px;
+  align-items: center;
+}
+
+.indexphoto {
+  width: auto;
+  height: auto;
+  margin: 1px;
+}
+
+.photoindex {
+  width: 85%;
+  height: 30px;
+}

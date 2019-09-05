@@ -1,0 +1,27 @@
+.photoalbum {
+  height: auto;
+  margin: 3px;
+  padding: 3px;
+}
+
+.gallery {
+  width: 161px;
+  height: 200px;
+  margin: 3px;
+  background-color: #404040;
+  padding: 3%;
+  display: inline-block;
+  float: left;
+}
+
+.desc {
+  color: white;
+  text-align: center;
+}
+
+.photo {
+  width: 161px;
+  height: 149px;
+  margin: 1px;
+  align-items: center;
+}

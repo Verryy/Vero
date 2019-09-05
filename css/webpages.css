@@ -1,0 +1,54 @@
+body {
+  background-color: #353535;
+  margin: 0px;
+}
+
+h1 {
+  color: white;
+  margin-left: 1%;
+}
+
+h2 {
+  color: white;
+  margin-left: 1%;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  width: 16%;
+  margin: 0px; 
+}
+
+li a {
+  display: block;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #FFB0ED;
+  color: white;
+}
+
+.tittlebar {
+  background-color: black;
+  padding: 3px;
+  text-align: center;
+}
+
+.intro {
+  margin: 1%;
+  background-color: #404040;
+}
+
+.active {
+  background-color: #FF57C1;
+  color: white;
+}
+
+.background {
+  background-image: url("../img/photoindex/littleforest.png");
+  position: sticky;
+}
